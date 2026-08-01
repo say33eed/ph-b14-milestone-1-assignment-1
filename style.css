@@ -67,7 +67,14 @@
     cursor: pointer;
     height: 45px;
     width: 150px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
 }
+
+
+.common-button:hover {
+    background-color: #1e40af;
+}
+
 
 .banner-container {
     display: flex;
@@ -87,7 +94,7 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    margin-top: 100px;
+    margin-top: 120px;
     margin-bottom: 100px;
 }
 
@@ -119,5 +126,10 @@
     cursor: pointer;
     height: 60px;
     width: 170px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.hero-button:hover {
+    background-color: #1e40af;
 }
 
