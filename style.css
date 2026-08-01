@@ -78,6 +78,10 @@
     background-position: center;
 }
 
+.banner-overlay-container {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
 .hero-contents-container {
     display: flex;
     flex-direction: column;
