@@ -133,3 +133,19 @@
     background-color: #1e40af;
 }
 
+
+
+
+
+
+
+
+
+.speaker > h2:first-child {
+    color: #000102;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
