@@ -374,6 +374,10 @@ body{
     font-size: 14px;
 }
 
+.card-button-1:hover {
+    background-color: #f8f9fb;
+}
+
 .card-button-2 {
     border: none;
     background-color: #2563eb;
@@ -386,6 +390,10 @@ body{
     font-size: 14px;
 }
 
+.card-button-2:hover {
+    background-color: #1e40af;
+}
+
 .card-button-3 {
     border: 2px solid #0d1b2a;
     background-color: #f8f9fb;
@@ -396,6 +404,10 @@ body{
     color: #0d1b2a;
     font-weight: 600;
     font-size: 14px;
+}
+
+.card-button-3:hover {
+    background-color: #ffffff;
 }
 
 
